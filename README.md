@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and tools</h3>
 
-<table align="center" border="0" cellspacing="0" cellpadding="8" frame="void" rules="none">
+<table align="left" cellspacing="0" cellpadding="8" frame="void" rules="none">
   <tr>
     <td align="center" width="72" valign="middle"><a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a></td>
     <td align="center" width="72" valign="middle"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a></td>
