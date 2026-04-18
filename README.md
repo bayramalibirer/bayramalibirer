@@ -24,10 +24,8 @@
 </p>
 
 <h3 align="left">Languages and tools</h3>
-<p align="left"><sub>Stack and tools I work with — A→Z, 10 per row.</sub></p>
 
-<!-- 10-column grid: stable layout on GitHub; icons A→Z -->
-<table align="center" cellpadding="6" cellspacing="0">
+<table align="center" border="0" cellspacing="0" cellpadding="8" frame="void" rules="none">
   <tr>
     <td align="center" width="72" valign="middle"><a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a></td>
     <td align="center" width="72" valign="middle"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a></td>
@@ -77,11 +75,16 @@
     <td align="center" valign="middle"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a></td>
   </tr>
   <tr>
-    <td colspan="10" align="center" valign="middle">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://unity.com/" target="_blank" rel="noreferrer" title="Unity"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-    </td>
+    <td align="center" width="72" valign="middle"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a></td>
+    <td align="center" width="72" valign="middle"><a href="https://unity.com/" target="_blank" rel="noreferrer" title="Unity"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
+    <td align="center" width="72" valign="middle"></td>
   </tr>
 </table>
 
