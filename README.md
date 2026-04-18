@@ -152,12 +152,6 @@
 <h2 align="center">GitHub stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bayramalibirer&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=7" alt="GitHub profile trophies" />
-</p>
-
-<br />
-
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bayramalibirer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;rank_icon=github" alt="GitHub stats for bayramalibirer" />
   &nbsp;
   <img height="165" src="https://streak-stats.demolab.com/?user=bayramalibirer&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="GitHub contribution streak for bayramalibirer" />
