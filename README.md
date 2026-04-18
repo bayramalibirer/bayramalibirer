@@ -1,31 +1,76 @@
+<!-- Banner: coding / software development (Unsplash) -->
 <p align="center">
-	<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0&w=1400&q=80" alt="Software development" width="900" />
+  <img
+    src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=85"
+    alt="Software development — code on a laptop screen"
+    width="880"
+  />
 </p>
 
-<h1 align="center">Hi 👋, I'm Bayram Ali Birer</h1>
-<h3 align="center">A passionate Software Engineer from Türkiye</h3>
+<br />
 
-
-- 🔭 I’m currently working on **Image Processing**
-
-- 🌱 I’m currently learning **C#**
-
-- 👨‍💻 All of my projects are available at [https://bayram-ali-birer.netlify.app](https://bayram-ali-birer.netlify.app)
-
-- 📝 I write article on Lung Cancer Detection
-
-- 💬 Ask me about **Software Engineering**
-
-- 📫 How to reach me **baryamali18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bayram-ali-birer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayram-ali-birer" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Bayram Ali Birer</h1>
+<p align="center">
+  <strong>Software Engineer</strong> · Türkiye<br />
+  Building reliable software with a focus on <strong>image processing</strong> and clean engineering.
 </p>
 
-<h3 align="left">Languages and tools</h3>
+<br />
 
-<table align="left" cellspacing="0" cellpadding="8" frame="void" rules="none">
+<p align="center">
+  <a href="https://bayram-ali-birer.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:baryamali18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bayram-ali-birer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<br />
+
+---
+
+<br />
+
+<h2 align="center">About</h2>
+
+<table align="center" border="0" cellspacing="0" cellpadding="4" frame="void" rules="none">
+  <tr>
+    <td valign="top">🔭</td>
+    <td>Currently working on <strong>image processing</strong> and applied ML workflows.</td>
+  </tr>
+  <tr>
+    <td valign="top">🌱</td>
+    <td>Deepening skills in <strong>C#</strong> and .NET ecosystem tooling.</td>
+  </tr>
+  <tr>
+    <td valign="top">👨‍💻</td>
+    <td>Projects and demos: <a href="https://bayram-ali-birer.netlify.app">bayram-ali-birer.netlify.app</a></td>
+  </tr>
+  <tr>
+    <td valign="top">📝</td>
+    <td>Writing on <strong>lung cancer detection</strong> and related imaging topics.</td>
+  </tr>
+  <tr>
+    <td valign="top">💬</td>
+    <td>Happy to chat about <strong>software engineering</strong>, CV/ML pipelines, and tooling.</td>
+  </tr>
+  <tr>
+    <td valign="top">📫</td>
+    <td><strong>baryamali18@gmail.com</strong></td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<br />
+
+<h2 align="center">Languages and tools</h2>
+
+<br />
+
+<table align="center" border="0" cellspacing="0" cellpadding="8" frame="void" rules="none">
   <tr>
     <td align="center" width="72" valign="middle"><a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a></td>
     <td align="center" width="72" valign="middle"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a></td>
@@ -88,6 +133,20 @@
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayramalibirer&show_icons=true&locale=en&layout=compact" alt="bayramalibirer" /></p>
+<br />
 
-![snake gif](https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.svg)
+---
+
+<br />
+
+<h2 align="center">GitHub stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayramalibirer&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top languages on GitHub" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
