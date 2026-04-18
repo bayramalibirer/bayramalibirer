@@ -12,11 +12,11 @@
 <h1 align="center">Hi, I'm Bayram Ali Birer</h1>
 <p align="center">
   <strong>Software Engineer</strong> · Türkiye<br />
-  Building reliable software with a focus on <strong>image processing</strong> and clean engineering.
+  Turning <strong>images &amp; data</strong> into <strong>software that ships</strong>—computer vision, applied ML, and careful engineering.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Software+engineer;Image+processing+%26+ML;Always+learning+something+new" alt="Animated typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Computer+vision+%26+applied+ML;From+experiments+to+production;Precision+in+every+commit" alt="Animated typing subtitle" />
 </p>
 
 <br />
@@ -152,11 +152,23 @@
 <h2 align="center">GitHub stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bayramalibirer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;rank_icon=github" alt="GitHub stats for bayramalibirer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bayramalibirer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bayramalibirer&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;locale=en&amp;rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=bayramalibirer&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;locale=en&amp;rank_icon=github" alt="GitHub stats for bayramalibirer" />
+  </picture>
   &nbsp;
-  <img height="165" src="https://streak-stats.demolab.com/?user=bayramalibirer&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="GitHub contribution streak for bayramalibirer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bayramalibirer&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=bayramalibirer&amp;theme=github&amp;hide_border=true&amp;locale=en" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=bayramalibirer&amp;theme=github&amp;hide_border=true&amp;locale=en" alt="GitHub contribution streak for bayramalibirer" />
+  </picture>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramalibirer&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;langs_count=8" alt="Most used languages on GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramalibirer&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;langs_count=8&amp;card_width=600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramalibirer&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;locale=en&amp;langs_count=8&amp;card_width=600" />
+    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramalibirer&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;locale=en&amp;langs_count=8&amp;card_width=600" alt="Most used languages on GitHub" />
+  </picture>
 </p>
