@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayramalibirer&show_icons=true&locale=en" alt="bayramalibirer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayramalibirer&" alt="bayramalibirer" /></p>
+
+![snake gif](https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.gif)
