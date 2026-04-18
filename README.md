@@ -84,4 +84,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayramalibirer&show_icons=true&locale=en&layout=compact" alt="bayramalibirer" /></p>
 
-![snake gif](https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.svg)
