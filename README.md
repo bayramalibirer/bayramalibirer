@@ -3,7 +3,7 @@
   <img
     src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=85"
     alt="Software development — code on a laptop screen"
-    width="880"
+    width="720"
   />
 </p>
 
@@ -59,6 +59,12 @@
     <td><strong>baryamali18@gmail.com</strong></td>
   </tr>
 </table>
+
+<br />
+
+<p align="center">
+  <img src="https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 <br />
 
@@ -143,10 +149,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayramalibirer&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top languages on GitHub" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github.com/bayramalibirer/bayramalibirer/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
